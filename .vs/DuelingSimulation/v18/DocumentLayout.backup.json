@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashte\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\\u041E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\DuelingSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4599A2AC-2B7B-4409-8038-B482A9B7C8B7}|DuelingSimulation.csproj|c:\\users\\ashte\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\work\\\u043E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\duelingsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4599A2AC-2B7B-4409-8038-B482A9B7C8B7}|DuelingSimulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4599A2AC-2B7B-4409-8038-B482A9B7C8B7}|DuelingSimulation.csproj|c:\\users\\ashte\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\work\\\u043E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\duelingsimulation\\service\\views.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4599A2AC-2B7B-4409-8038-B482A9B7C8B7}|DuelingSimulation.csproj|solutionrelative:service\\views.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4599A2AC-2B7B-4409-8038-B482A9B7C8B7}|DuelingSimulation.csproj|c:\\users\\ashte\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\work\\\u043E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\duelingsimulation\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4599A2AC-2B7B-4409-8038-B482A9B7C8B7}|DuelingSimulation.csproj|solutionrelative:service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4599A2AC-2B7B-4409-8038-B482A9B7C8B7}|DuelingSimulation.csproj|c:\\users\\ashte\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\work\\\u043E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\duelingsimulation\\service\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4599A2AC-2B7B-4409-8038-B482A9B7C8B7}|DuelingSimulation.csproj|solutionrelative:service\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4599A2AC-2B7B-4409-8038-B482A9B7C8B7}|DuelingSimulation.csproj|c:\\users\\ashte\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\work\\\u043E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\duelingsimulation\\service\\mappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4599A2AC-2B7B-4409-8038-B482A9B7C8B7}|DuelingSimulation.csproj|solutionrelative:service\\mappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashte\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\\u041E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\DuelingSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ashte\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\\u041E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\DuelingSimulation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:32:12.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Views.cs",
+              "DocumentMoniker": "C:\\Users\\ashte\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\\u041E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\DuelingSimulation\\Service\\Views.cs",
+              "RelativeDocumentMoniker": "Service\\Views.cs",
+              "ToolTip": "C:\\Users\\ashte\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\\u041E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\DuelingSimulation\\Service\\Views.cs",
+              "RelativeToolTip": "Service\\Views.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:39:09.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mappers.cs",
+              "DocumentMoniker": "C:\\Users\\ashte\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\\u041E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\DuelingSimulation\\Service\\Mappers.cs",
+              "RelativeDocumentMoniker": "Service\\Mappers.cs",
+              "ToolTip": "C:\\Users\\ashte\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\\u041E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\DuelingSimulation\\Service\\Mappers.cs",
+              "RelativeToolTip": "Service\\Mappers.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:49:52.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\ashte\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\\u041E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\DuelingSimulation\\Service\\Base.cs",
+              "RelativeDocumentMoniker": "Service\\Base.cs",
+              "ToolTip": "C:\\Users\\ashte\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\\u041E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\DuelingSimulation\\Service\\Base.cs",
+              "RelativeToolTip": "Service\\Base.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:09:52.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\ashte\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\\u041E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\DuelingSimulation\\Service\\Service.cs",
+              "RelativeDocumentMoniker": "Service\\Service.cs",
+              "ToolTip": "C:\\Users\\ashte\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Work\\\u041E\u0431\u2019\u0454\u043A\u0442\u043D\u043E-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21163\\DuelingSimulation\\Service\\Service.cs",
+              "RelativeToolTip": "Service\\Service.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwCUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:40:43.779Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1179,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1179,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
